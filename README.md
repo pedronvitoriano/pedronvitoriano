@@ -3,7 +3,9 @@
 <a href="https://www.linkedin.com/in/pedronvitoriano/">
   <img src="https://img.shields.io/badge/-Pedro%20Vitoriano-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/>
 </a>
-<a href="mailtopedronvitoriano@gmail.com"><img src="https://img.shields.io/badge/-pedronvitoriano@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:pedronvitoriano@gmail.com">
+  <img src="https://img.shields.io/badge/-pedronvitoriano@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+</a>
 
 </p>
 

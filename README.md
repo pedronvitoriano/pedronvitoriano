@@ -11,7 +11,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Sou estudante de Engenharia de Software, atualmente no 4º período na Universidade Federal do Amazonas. Desde cedo, fui fascinado por tecnologia e tive minha primeira experiência com programação aos 11 anos. Esse interesse ainda me motiva a explorar novas tecnologias e aprimorar constantemente minhas habilidades.
+- 👨🏻‍💻 &nbsp; Sou estudante de Engenharia de Software, atualmente no 5º período na Universidade Federal do Amazonas. Desde cedo, fui fascinado por tecnologia e tive minha primeira experiência com programação aos 11 anos. Esse interesse ainda me motiva a explorar novas tecnologias e aprimorar constantemente minhas habilidades.
 - 💚 &nbsp; Já desenvolvi projetos acadêmicos em C, Java, Go e MySQL, além de ter experiência com Git. Durante esses projetos, trabalhei em equipe para desenvolver soluções, adquirindo experiência em colaboração, versionamento de código e resolução de problemas em grupo. Alguns dos projetos que desenvolvi incluem:
   - Desenvolvimento de um banco de dados para uma rede social fictícia, em dupla, com mais de 1.000 usuários simulados, focado em escalabilidade e eficiência na manipulação de dados.
   - Campo Minado em Python, Batalha Naval em Java e UNO local, explorando lógica de programação e estrutura de dados.

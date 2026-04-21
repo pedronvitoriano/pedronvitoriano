@@ -166,9 +166,9 @@ Workflow N8N que lê Google Sheets, busca foto no Google Drive, e dispara mensag
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrovitoriano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs)](https://github.com/pedrovitoriano)
+[![GitHub Stats](https://github-readme-stats-flax-seven-19.vercel.app/api?username=pedrovitoriano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs)](https://github.com/pedrovitoriano)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovitoriano&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/pedrovitoriano)
+[![Top Languages](https://github-readme-stats-flax-seven-19.vercel.app/api/top-langs/?username=pedrovitoriano&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/pedrovitoriano)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pedrovitoriano&theme=tokyonight&hide_border=true&mode=weekly)](https://github.com/pedrovitoriano)
 

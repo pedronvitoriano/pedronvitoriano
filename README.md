@@ -19,7 +19,7 @@
 
 ---
 
-## `whoami`
+## `who am i`
 
 ```yaml
 name:     Pedro Vitoriano

@@ -32,7 +32,7 @@ accounts: pedronvitoriano (principal) · pedrovitoriano-n (trabalho)
 
 Estagiário de desenvolvimento Full Stack na **AIONS Corp**, onde construo sistemas reais — de automações complexas com N8N a agentes de IA conversacionais integrados ao WhatsApp. Fascinado por tecnologia desde os 11 anos, hoje transformo esse fascínio em soluções funcionais e bem arquitetadas.
 
-Números do time em produção hoje: **250+ processos rodando 24/7**. Num dos casos, o cadastro de admissão caiu de **30 min para 2 min**, e a convocação mensal de intermitentes, de **cerca de um dia para 10 min**.
+Hoje mantenho **nove automações em produção** para clientes diferentes — relatório operacional, documento de RH, faturamento e gestão interna — e sou **owner de contexto dos domínios Operacional e RH** no n8n, cerca de 33 fluxos.
 
 ---
 
@@ -173,11 +173,28 @@ Workflow N8N que lê Google Sheets, busca foto no Google Drive, e dispara mensag
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats-flax-seven-19.vercel.app/api?username=pedronvitoriano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs)](https://github.com/pedronvitoriano)
-
-[![Top Languages](https://github-readme-stats-flax-seven-19.vercel.app/api/top-langs/?username=pedronvitoriano&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/pedronvitoriano)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pedronvitoriano&theme=tokyonight&hide_border=true&mode=weekly)](https://github.com/pedronvitoriano)
+
+<!--
+  Dois cards saíram daqui porque estavam renderizando erro no perfil:
+
+  1. GitHub Stats — o deploy do fork (github-readme-stats-flax-seven-19.vercel.app)
+     responde "Resource not accessible by personal access token". O PAT guardado
+     na env var PAT_1 do projeto na Vercel não tem escopo suficiente (sintoma
+     típico de token fine-grained ou expirado). Para reativar: gerar um token
+     CLÁSSICO no GitHub (Settings > Developer settings > Tokens classic; escopo
+     `repo` se quiser contar repositório privado), atualizar PAT_1 na Vercel e
+     refazer o deploy. Depois é só descomentar a linha abaixo.
+
+  [![GitHub Stats](https://github-readme-stats-flax-seven-19.vercel.app/api?username=pedronvitoriano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs)](https://github.com/pedronvitoriano)
+
+  2. Top Languages — responde "No languages data" porque só existem dois
+     repositórios públicos aqui, e fork não entra na contagem. Volta a fazer
+     sentido quando houver repositório público com código próprio.
+
+  [![Top Languages](https://github-readme-stats-flax-seven-19.vercel.app/api/top-langs/?username=pedronvitoriano&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/pedronvitoriano)
+-->
+
 
 </div>
 

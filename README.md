@@ -9,8 +9,9 @@
 ╚═╝     ╚══════╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝ 
 ```
 
-### `> Pedro Vitoriano` · Backend Developer & Automation Engineer
+### `> Pedro Vitoriano` · Desenvolvedor full stack · Automação e IA aplicada
 
+[![Portfólio](https://img.shields.io/badge/Portfólio-pedronvitoriano.com-E8B14A?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://pedronvitoriano.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pedronvitoriano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedronvitoriano/)
 [![Gmail](https://img.shields.io/badge/Gmail-pedronvitoriano@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedronvitoriano@gmail.com)
 [![UFAM](https://img.shields.io/badge/UFAM-Eng.%20de%20Software%20·%207º%20Período-006400?style=for-the-badge&logo=academia&logoColor=white)](#)
@@ -23,13 +24,15 @@
 
 ```yaml
 name:     Pedro Vitoriano
-role:     Backend Developer Intern @ AIONS Corp
+role:     Desenvolvedor full stack (estágio) @ AIONS Corp
 location: Manaus, Amazonas 🇧🇷
 focus:    Automações · APIs · Agentes de IA · Integrações
-accounts: pedrovitoriano (pessoal) · pedrovitoriano-n (trabalho)
+accounts: pedronvitoriano (principal) · pedrovitoriano-n (trabalho)
 ```
 
-Estagiário de desenvolvimento Full Stack na **AIONS Corp**, onde construo sistemas reais — de automações complexas com N8N a agentes de IA conversacionais integrados ao WhatsApp. Fascínado por tecnologia desde os 11 anos, hoje transformo esse fascínio em soluções funcionais e bem arquitetadas.
+Estagiário de desenvolvimento Full Stack na **AIONS Corp**, onde construo sistemas reais — de automações complexas com N8N a agentes de IA conversacionais integrados ao WhatsApp. Fascinado por tecnologia desde os 11 anos, hoje transformo esse fascínio em soluções funcionais e bem arquitetadas.
+
+Números do time em produção hoje: **250+ processos rodando 24/7**. Num dos casos, o cadastro de admissão caiu de **30 min para 2 min**, e a convocação mensal de intermitentes, de **cerca de um dia para 10 min**.
 
 ---
 
@@ -162,15 +165,19 @@ Workflow N8N que lê Google Sheets, busca foto no Google Drive, e dispara mensag
 
 ---
 
+> 🔎 **Mais projetos, com vídeo de uso real:** [pedronvitoriano.com](https://pedronvitoriano.com) — AmberPocket, Forge, Gerenciador Servidor, Controle MDO, Jarvis e os jogos em Godot.
+
+---
+
 ## `./stats`
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats-flax-seven-19.vercel.app/api?username=pedrovitoriano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs)](https://github.com/pedrovitoriano)
+[![GitHub Stats](https://github-readme-stats-flax-seven-19.vercel.app/api?username=pedronvitoriano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs)](https://github.com/pedronvitoriano)
 
-[![Top Languages](https://github-readme-stats-flax-seven-19.vercel.app/api/top-langs/?username=pedrovitoriano&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/pedrovitoriano)
+[![Top Languages](https://github-readme-stats-flax-seven-19.vercel.app/api/top-langs/?username=pedronvitoriano&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/pedronvitoriano)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pedrovitoriano&theme=tokyonight&hide_border=true&mode=weekly)](https://github.com/pedrovitoriano)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pedronvitoriano&theme=tokyonight&hide_border=true&mode=weekly)](https://github.com/pedronvitoriano)
 
 </div>
 
@@ -192,6 +199,6 @@ Workflow N8N que lê Google Sheets, busca foto no Google Drive, e dispara mensag
 
 *`"Construir ferramentas que funcionam de verdade — isso é o que me move."`*
 
-![Profile views](https://komarev.com/ghpvc/?username=pedrovitoriano&color=00ff88&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=pedronvitoriano&color=00ff88&style=flat-square)
 
 </div>

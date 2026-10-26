@@ -17,7 +17,7 @@ I build systems that take manual work off the people who run a company, and I ru
 
 ## What I'm building
 
-- **[Folio](https://github.com/pedronvitoriano/verso-one-releases)**: viewer and editor for almost any file type on Linux and Windows, with a Word editor, spell checker and an MCP bridge that lets Claude Code work inside the app.
+- **[Verso One](https://versoone.pedronvitoriano.com)** (formerly Folio): viewer and editor for almost any file type on Linux and Windows, with a Word editor, spell checker and an MCP bridge that lets Claude Code work inside the app.
 
 ## Stack
 
